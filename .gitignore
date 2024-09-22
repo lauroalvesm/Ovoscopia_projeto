@@ -1,0 +1,12 @@
+# File venv
+/Include/
+/Lib/
+/Scripts/
+/share/
+pyvenv.cfg
+
+# Files Create
+/OVO_*/
+
+*.zip
+*.pptx
